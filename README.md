@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#As of April 2024, I am:
+- A computer information sciences student at the University of Pennsylvania
+- A backend dev for [PennLabs](https://pennlabs.org/)
+- A student researcher working with professor [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
+
 [![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-Jess)](https://github.com/dr-Jess/github-readme-stats)
 
 <!--
