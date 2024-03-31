@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-# As of April 2024, I am:
+#### As of April 2024, I am:
 - A computer information sciences student at the University of Pennsylvania
 - A backend dev for [PennLabs](https://pennlabs.org/)
 - A student researcher working with professor [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
 
-# I'm particularly passionate about:
+#### I'm particularly passionate about:
 - Data structures and algorithms! Not a joke, I find these problems extremely interesting
 - DB and data modeling. I love relational DB 😄
 - Networks and cybersecurity
