@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-Jess)](https://github.com/dr-Jess/github-readme-stats)
+
 <!--
 **dr-Jess/dr-Jess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
