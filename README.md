@@ -14,7 +14,7 @@
 - ...and learning! I'm always down to learn something new
 <br>
 
-[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-Jess&show_icons=true&theme=dark)](https://github.com/dr-Jess/github-readme-stats)
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-Jess&show_icons=true&theme=dracula)](https://github.com/dr-Jess/github-readme-stats)
 
 <!--
 **dr-Jess/dr-Jess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
