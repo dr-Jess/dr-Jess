@@ -3,7 +3,7 @@
 
 #### As of April 2024, I am:
 - A computer information sciences student at the University of Pennsylvania
-- A backend dev for [PennLabs](https://pennlabs.org/)
+- A backend dev for [Penn Labs](https://pennlabs.org/)
 - A student researcher working with professor [Mayur Naik](https://www.cis.upenn.edu/~mhnaik/)
 <br>
 
