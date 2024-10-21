@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Jesse!
 <br>
 
-#### As of April 2024, I am:
+#### As of October 2024, I am:
 - A computer information sciences student at the University of Pennsylvania
 - A backend dev for [Penn Labs](https://pennlabs.org/)
-- A part time backend dev for [Simplify](https://simplify.jobs/)
+- A CIS 1210 (DS & A) Teaching Assistant at Penn
 <br>
 
 #### I'm particularly passionate about:
