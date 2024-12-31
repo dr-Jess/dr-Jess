@@ -4,8 +4,14 @@
 #### As of October 2024, I am:
 - A computer information sciences student at the University of Pennsylvania
 - A backend dev for [Penn Labs](https://pennlabs.org/)
-- A CIS 1210 (DS & A) Teaching Assistant at Penn
-<br>
+- A CIS 1210 (Data Structures & Algorithms) Teaching Assistant at Penn
+<be>
+
+#### Some things I've done before:
+- Backend engineering intern @Simplify--mostly working with FastAPI and production databases (PostgreSQL)
+- LLM & Cybersecurity Research at Penn (see LinkedIn or resume for more)
+- Lots of interesting projects! This github is a good first place to look
+<be>
 
 #### I'm particularly passionate about:
 - Data structures and algorithms! Not a joke, I find these problems extremely interesting
