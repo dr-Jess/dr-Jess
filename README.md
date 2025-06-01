@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Jesse!
 <br>
 
-#### As of October 2024, I am:
+#### As of May 2025, I am:
 - A computer information sciences student at the University of Pennsylvania
+- An Amazon summer intern working on [AWS Interactive ML](https://aws.amazon.com/sagemaker/unified-studio/)
 - A backend dev for [Penn Labs](https://pennlabs.org/)
 - A CIS 1210 (Data Structures & Algorithms) Teaching Assistant at Penn
 <be>
@@ -16,7 +17,7 @@
 #### I'm particularly passionate about:
 - Data structures and algorithms! Not a joke, I find these problems extremely interesting
 - DB and data modeling. I love relational DB 😄 they're the greatest invention of all time
-- Networks and cybersecurity
+- Compilers and other theoretical interests
 - ...and learning! I'm always down to learn something new
 <br>
 
