@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Jesse!
 <br>
+
 #### As of May 2025, I am:
 - A computer information sciences student at the University of Pennsylvania
 - An Amazon summer intern working on [AWS Interactive ML](https://aws.amazon.com/sagemaker/unified-studio/)
